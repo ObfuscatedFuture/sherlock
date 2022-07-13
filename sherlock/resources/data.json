@@ -1665,6 +1665,14 @@
     "username_claimed": "L33",
     "username_unclaimed": "noonewouldev"
   },
+  "Snapchat": {
+    "errorMsg": "",
+    "errorType": "message",
+    "url": "https://feelinsonice-hrd.appspot.com/web/deeplink/snapcode?username={}&type=SVG",
+    "urlMain": "http://www.snapchat.com",
+    "username_claimed": "blue",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
   "SWAPD": {
     "errorType": "status_code",
     "url": "https://swapd.co/u/{}",
@@ -1925,7 +1933,6 @@
   },
   "TradingView": {
     "errorType": "status_code",
-    "request_method": "GET",
     "url": "https://www.tradingview.com/u/{}/",
     "urlMain": "https://www.tradingview.com/",
     "username_claimed": "blue",
