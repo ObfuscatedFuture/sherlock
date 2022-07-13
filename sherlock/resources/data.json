@@ -381,6 +381,14 @@
     "username_claimed": "cute18cute",
     "username_unclaimed": "noonewouldeverusethis77777"
   },
+   "Chess": {
+    "errorMsg": "status_code",
+    "regexCheck": "^[a-z1-9]{3,25}$",
+    "url": "https://www.chess.com/member/{}",
+    "urlMain": "https://www.chess.com/",
+    "username_claimed": "blue",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
   "CloudflareCommunity": {
     "errorType": "status_code",
     "url": "https://community.cloudflare.com/u/{}",
