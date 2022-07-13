@@ -119,6 +119,16 @@
     "username_claimed": "blue",
     "username_unclaimed": "noonewould"
   },
+    "Snapchat": {
+    "errorMsg": "This content was not found",
+    "errorType": "message",
+    "regexCheck": "^[a-z][a-z-_.]{3,15}",
+    "request_method": "POST",
+    "url": "https://www.snapchat.com/add/{}",
+    "urlMain": "https://www.snapchat.com",
+    "username_claimed": "teamsnapchat",
+    "username_unclaimed": "revedluowenoon"
+  },
   "ArtStation": {
     "errorType": "status_code",
     "url": "https://www.artstation.com/{}",
